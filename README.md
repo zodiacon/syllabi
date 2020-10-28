@@ -1,3 +1,3 @@
-# syllabi
+# Syllabi
 
-Syllabi for various classes I provide.
+Syllabi for various classes I teach.
